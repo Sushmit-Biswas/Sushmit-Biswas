@@ -52,7 +52,7 @@
 <p>He/Him</p>
 
 <h2>⚡ Fun Fact</h2>
-<p>Aside from coding, I enjoy playing the piano, participating in sports like table tennis and football, and exploring my artistic side through art and craft!</p>
+<p>Aside from coding, I enjoy playing the piano, participating in sports like table tennis, chess and football, and exploring my artistic side through art and craft!</p>
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
