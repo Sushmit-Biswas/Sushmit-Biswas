@@ -56,8 +56,6 @@
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em> I'm always excited to connect with fellow developers and collaborators! Feel free to reach out - I'd love to hear from you! </em> 😊
----
 
 [![](https://visitcount.itsvg.in/api?id=SB&label=Profile%20Views&color=0&icon=5&pretty=true)](https://github.com/Sushmit-Biswas)
 
