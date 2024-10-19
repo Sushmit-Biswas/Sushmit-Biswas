@@ -18,8 +18,8 @@
 <ul>
   <li>Digital Design</li>
   <li>Probability & Statistics</li>
-  <li>Calculus</li>
-  <li>Python, Java, C++</li>
+  <li>Calculus & Differential Equations</li>
+  <li>Python, C, Java, C++</li>
   <li>Web Development (HTML, CSS, JavaScript)</li>
 </ul>
 
