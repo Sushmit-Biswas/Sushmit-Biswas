@@ -16,11 +16,9 @@
 
 <h2>🌱 Currently Learning</h2>
 <ul>
-  <li>Digital Design</li>
-  <li>Probability & Statistics</li>
-  <li>Calculus & Differential Equations</li>
-  <li>Python, C, Java, C++</li>
-  <li>Web Development (HTML, CSS, JavaScript)</li>
+  <li>Machine Learning</li>
+  <li>Data Structures and Algorithms</li>
+  <li>Web Development</li>
 </ul>
 
 <h2>💞️ Looking to Collaborate On</h2>
