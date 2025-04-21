@@ -52,15 +52,16 @@
 <h2>⚡ Fun Fact</h2>
 <p>Aside from coding, I enjoy playing the piano, participating in sports like table tennis, chess, cricket and football, and exploring my artistic side through art and craft!</p>
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushmit-Biswas&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ![Visitor Count](https://api.visitorbadge.io/api/VisitorHit?user=Sushmit-Biswas&repo=Sushmit-Biswas&countColor=%237B1E7A)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushmit-Biswas&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sushmit-Biswas&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushmit-Biswas&layout=compact&theme=radical)
 
 
 
