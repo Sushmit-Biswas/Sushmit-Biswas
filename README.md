@@ -56,6 +56,12 @@
 
 ![Visitor Count](https://api.visitorbadge.io/api/VisitorHit?user=Sushmit-Biswas&repo=Sushmit-Biswas&countColor=%237B1E7A)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushmit-Biswas&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sushmit-Biswas&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushmit-Biswas&layout=compact&theme=radical)
+
 
 
 
