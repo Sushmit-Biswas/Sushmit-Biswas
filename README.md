@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <span style="color: #ff6f61;">Sushmit Biswas </span> <a href=""><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40"/></a></h1>
 
 <p align="center">
-  <em>1st Year Computer Science student at IIIT Bangalore, passionate about coding and creating innovative tech solutions!</em>
+  <em>2nd Year Computer Science student at IIIT Bangalore, passionate about coding and creating innovative tech solutions!</em>
 </p>
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
